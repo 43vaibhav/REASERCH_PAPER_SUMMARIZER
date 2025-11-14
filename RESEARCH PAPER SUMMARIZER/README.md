@@ -1,6 +1,6 @@
 # 🧠 Research Paper Summarizer
 
-Developed during an NVIDIA Internship, this project is an end-to-end platform that helps researchers quickly analyze and extract key insights from academic papers using semantic search, vector databases, LLM-powered summarization, and LaTeX PDF generation.
+Developed an end-to-end platform that helps researchers quickly analyze and extract key insights from academic papers using semantic search, vector databases, LLM-powered summarization, and LaTeX PDF generation.
 
 ## 🔍 What It Does
 
@@ -106,3 +106,4 @@ Developed during an NVIDIA Internship, this project is an end-to-end platform th
 ![Image 2](images/image2.png)
 
 ![Image 3](images/image3.png)
+
